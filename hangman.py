@@ -8,7 +8,7 @@ import random
 import words
 
 word_list = words.wl
-starting_lives = 3
+starting_lives = 5
 word = "hangman"
 
 #Function to check if the guess is valid
